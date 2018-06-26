@@ -3,5 +3,10 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
+
 merge with no del.
 go on..see test1.
+
+merge with --no-ff del.
+
+go on and see test2 how to change.
