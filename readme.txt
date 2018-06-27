@@ -10,3 +10,5 @@ go on..see test1.
 merge with --no-ff del.
 
 go on and see test2 how to change.
+
+tes3 with no conflict.--no-ff
